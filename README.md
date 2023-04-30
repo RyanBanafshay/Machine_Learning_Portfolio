@@ -27,6 +27,37 @@ Soft skills acquired during the completion of this course
 
 https://github.com/RyanBanafshay/Machine_Learning_Portfolio/blob/main/Machine%20Learning%20Resume.pdf
 
+### C++ Data exploration
+
+Reacreate pre-built functions in R for data exploration with statistical functions in C++
+
+https://github.com/RyanBanafshay/Machine_Learning_Portfolio/tree/main/C%2B%2B%20Algorithms%20from%20Scratch
+
+### Linear Models
+Performed data cleaning and data exploration on a medium-sized data set, then evaluate the data using classification and regression.
+
+https://github.com/RyanBanafshay/Machine_Learning_Portfolio/tree/main/Linear%20Models%20in%20R
+
+### C++ Algorithms from Scratch
+Built a deeper understanding of machine learning algorithms by coding from scratch.
+
+https://github.com/RyanBanafshay/Machine_Learning_Portfolio/tree/main/C%2B%2B%20Algorithms%20from%20Scratch
+
+### Similarity and Ensemble
+Preformed dimensionality reduction on a data set to perform both PCA and LDA dimensionality reduction. Tried regression on the reduced data.
+
+https://github.com/RyanBanafshay/Machine_Learning_Portfolio/tree/main/Similarity%20and%20Ensemble
+
+### ML with sklearn
+Gained experience with machine learning in sklearn on a small data set.
+
+https://github.com/RyanBanafshay/Machine_Learning_Portfolio/tree/main/ML%20with%20sklearn
+
+### Image Classification
+Run image classification on a image data set.
+
+https://github.com/RyanBanafshay/Machine_Learning_Portfolio/tree/main/Image%20Classification%20with%20DL
+ 
 
 
 ### End of Semester Retrospective
